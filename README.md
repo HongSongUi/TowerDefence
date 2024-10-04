@@ -17,7 +17,10 @@
 * 타일 클릭 시 랜덤으로 타워 생성
 * 같은 레벨과 속성의 타워를 조합하여 상위 타워 생성
 * 메인 메뉴와 사운드 설정, 일시 정지 기능
-* UI(버튼, 남은 목숨, 현재 돈, 조합, 용과 몬스터의 정보)
-
+* UI(버튼, 남은 목숨, 현재 돈, 조합, 용과 몬스터의 정보, 몬스터의 체력)
 
 <br />
+
+## Screenshot
+<img src="https://github.com/user-attachments/assets/c7d4f561-efb4-4ab0-aae5-ac03d2e68a3b" width="500" height="300"/>
+<img src="https://github.com/user-attachments/assets/4e4d38ad-7d49-436b-ab9e-5aa7e7db80f3" width="500" height="300"/>
