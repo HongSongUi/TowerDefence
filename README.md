@@ -1,7 +1,7 @@
 # 알을 지켜라!
 <img src ="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"> 
 
-[日本の方はこちらへ](./README.JP.md)
+[Japanese](./README.JP.md)
 
 ## Game Overview
 몬스터들이 용의 알을 훔치기 위해 쳐들어왔다! 용의 알은 7일 후면 부화하게 되며, 그때까지 적의 공격을 막아야 한다. 다양한 용과 조합을 활용해 적의 공격을 방어하고, 용의 알을 안전하게 지켜내어 부화시켜라!
